@@ -22,9 +22,9 @@ import (
 	"os"
 	"strings"
 
-	http "github.com/wangluozhe/fhttp"
-	"github.com/wangluozhe/fhttp/http2"
-	"github.com/wangluozhe/fhttp/http2/hpack"
+	http "github.com/ChengHoward/fhttp"
+	"github.com/ChengHoward/fhttp/http2"
+	"github.com/ChengHoward/fhttp/http2/hpack"
 	"golang.org/x/net/http/httpguts"
 )
 

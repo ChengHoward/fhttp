@@ -8,7 +8,7 @@ import (
 	"strings"
 	"sync"
 
-	http "github.com/wangluozhe/fhttp"
+	http "github.com/ChengHoward/fhttp"
 )
 
 var (

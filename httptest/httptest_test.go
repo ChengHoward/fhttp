@@ -13,7 +13,7 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	http "github.com/wangluozhe/fhttp"
+	http "github.com/ChengHoward/fhttp"
 )
 
 func TestNewRequest(t *testing.T) {

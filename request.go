@@ -13,7 +13,7 @@ import (
 	"encoding/base64"
 	"errors"
 	"fmt"
-	"github.com/wangluozhe/fhttp/http2/hpack"
+	"github.com/ChengHoward/fhttp/http2/hpack"
 	"io"
 	"mime"
 	"mime/multipart"
@@ -27,7 +27,7 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	"github.com/wangluozhe/fhttp/httptrace"
+	"github.com/ChengHoward/fhttp/httptrace"
 
 	"golang.org/x/net/idna"
 )

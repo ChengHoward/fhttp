@@ -15,7 +15,7 @@ import (
 	"sync"
 	"time"
 
-	http "github.com/wangluozhe/fhttp"
+	http "github.com/ChengHoward/fhttp"
 )
 
 // PublicSuffixList provides the public suffix of a domain. For example:

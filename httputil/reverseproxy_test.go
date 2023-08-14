@@ -24,8 +24,8 @@ import (
 	"testing"
 	"time"
 
-	http "github.com/wangluozhe/fhttp"
-	"github.com/wangluozhe/fhttp/httptest"
+	http "github.com/ChengHoward/fhttp"
+	"github.com/ChengHoward/fhttp/httptest"
 )
 
 const fakeHopHeader = "X-Fake-Hop-Header-For-Test"

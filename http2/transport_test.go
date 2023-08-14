@@ -33,10 +33,10 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	http "github.com/wangluozhe/fhttp"
-	"github.com/wangluozhe/fhttp/http2/hpack"
-	"github.com/wangluozhe/fhttp/httptest"
-	"github.com/wangluozhe/fhttp/httptrace"
+	http "github.com/ChengHoward/fhttp"
+	"github.com/ChengHoward/fhttp/http2/hpack"
+	"github.com/ChengHoward/fhttp/httptest"
+	"github.com/ChengHoward/fhttp/httptrace"
 )
 
 var (

@@ -30,7 +30,7 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	"github.com/wangluozhe/fhttp/httptrace"
+	"github.com/ChengHoward/fhttp/httptrace"
 
 	"golang.org/x/net/http/httpguts"
 	"golang.org/x/net/http/httpproxy"

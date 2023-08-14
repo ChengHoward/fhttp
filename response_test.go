@@ -18,7 +18,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/wangluozhe/fhttp/internal"
+	"github.com/ChengHoward/fhttp/internal"
 )
 
 type respTest struct {

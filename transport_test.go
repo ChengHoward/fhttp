@@ -39,11 +39,11 @@ import (
 
 	tls "github.com/refraction-networking/utls"
 
-	"github.com/wangluozhe/fhttp/httptest"
-	"github.com/wangluozhe/fhttp/httptrace"
-	"github.com/wangluozhe/fhttp/httputil"
-	"github.com/wangluozhe/fhttp/internal"
-	"github.com/wangluozhe/fhttp/internal/nettrace"
+	"github.com/ChengHoward/fhttp/httptest"
+	"github.com/ChengHoward/fhttp/httptrace"
+	"github.com/ChengHoward/fhttp/httputil"
+	"github.com/ChengHoward/fhttp/internal"
+	"github.com/ChengHoward/fhttp/internal/nettrace"
 
 	"golang.org/x/net/http/httpguts"
 )
