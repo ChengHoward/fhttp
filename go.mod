@@ -1,4 +1,4 @@
-module github.com/wangluozhe/fhttp
+module github.com/ChengHoward/fhttp
 
 go 1.20
 
