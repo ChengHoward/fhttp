@@ -25,7 +25,7 @@ import (
 	"bytes"
 	"context"
 	"crypto/rand"
-	tls "github.com/refraction-networking/utls"
+	tls "github.com/ChengHoward/utls"
 	"encoding/binary"
 	"errors"
 	"fmt"

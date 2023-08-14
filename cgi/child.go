@@ -18,7 +18,7 @@ import (
 	"strconv"
 	"strings"
 
-	tls "github.com/refraction-networking/utls"
+	tls "github.com/ChengHoward/utls"
 
 	http "github.com/ChengHoward/fhttp"
 )
