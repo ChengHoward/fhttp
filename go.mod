@@ -3,7 +3,7 @@ module github.com/ChengHoward/fhttp
 go 1.20
 
 require (
-	github.com/ChengHoward/utls v1.3.2
+	github.com/ChengHoward/utls v0.0.0-20230814085918-94de6720873b
 	golang.org/x/net v0.10.0
 	golang.org/x/term v0.8.0
 )
