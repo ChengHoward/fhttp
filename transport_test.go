@@ -37,7 +37,7 @@ import (
 	"testing/iotest"
 	"time"
 
-	tls "github.com/refraction-networking/utls"
+	tls "github.com/ChengHoward/utls"
 
 	"github.com/ChengHoward/fhttp/httptest"
 	"github.com/ChengHoward/fhttp/httptrace"
