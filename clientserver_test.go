@@ -27,7 +27,7 @@ import (
 	"testing"
 	"time"
 
-	tls "github.com/ChengHoward/utls"
+	tls "github.com/refraction-networking/utls"
 
 	"github.com/ChengHoward/fhttp/httptest"
 	"github.com/ChengHoward/fhttp/httputil"

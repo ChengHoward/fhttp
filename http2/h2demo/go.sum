@@ -13,6 +13,7 @@ github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03
 github.com/ChengHoward/fhttp v0.0.0-20230814083507-dcdc4ce1c61e/go.mod h1:mr1gdhUa/auYs6UDbFsN/QxrLoDiC8+rQAQzxgztITQ=
 github.com/ChengHoward/utls v0.0.0-20230814085918-94de6720873b/go.mod h1:Q1FMjGeCgsmXDgX9LQa7vp5qjAiUdsP3kIhDUYNF2j4=
 github.com/ChengHoward/utls v0.0.0-20230814090048-f64d13052b2c/go.mod h1:Q1FMjGeCgsmXDgX9LQa7vp5qjAiUdsP3kIhDUYNF2j4=
+github.com/ChengHoward/utls v0.0.0-20230815035422-cab2ed367094/go.mod h1:fy/cglqfpLM0R3c838t2Jb2dXOme+MEF3YmZoaWSP1o=
 github.com/ChengHoward/utls v1.3.2/go.mod h1:fmoaOww2bxzzEpIKOebIsnBvjQpqP7L2vcm/9KUfm/E=
 github.com/Danny-Dasilva/fhttp v0.0.0-20220524230104-f801520157d6/go.mod h1:2IT2IFG+d+zzFuj3+ksGtVytcCBsF402zMNWHsWhD2U=
 github.com/Danny-Dasilva/utls v0.0.0-20220418175931-f38e470e04f2/go.mod h1:A2g8gPTJWDD3Y4iCTNon2vG3VcjdTBcgWBlZtopfNxU=

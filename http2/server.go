@@ -45,7 +45,7 @@ import (
 	"sync"
 	"time"
 
-	tls "github.com/ChengHoward/utls"
+	tls "github.com/refraction-networking/utls"
 
 	http "github.com/ChengHoward/fhttp"
 	"github.com/ChengHoward/fhttp/http2/hpack"

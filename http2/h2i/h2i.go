@@ -36,7 +36,7 @@ import (
 	"strconv"
 	"strings"
 
-	tls "github.com/ChengHoward/utls"
+	tls "github.com/refraction-networking/utls"
 
 	"github.com/ChengHoward/fhttp/http2"
 	"github.com/ChengHoward/fhttp/http2/hpack"
