@@ -25,7 +25,7 @@ import (
 	"strings"
 	"sync"
 
-	tls "github.com/ChengHoward/utls"
+	tls "github.com/refraction-networking/utls"
 
 	"github.com/ChengHoward/fhttp/httptrace"
 
